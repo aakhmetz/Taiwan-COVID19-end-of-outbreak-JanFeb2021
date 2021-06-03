@@ -1,4 +1,4 @@
-# Taiwan-COVID19-end-of-outbreak-2021
+# A hospital-related outbreak of SARS-CoV-2 in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021
 
 *Work in progress*
 
