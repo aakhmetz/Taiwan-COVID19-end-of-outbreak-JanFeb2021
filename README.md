@@ -14,6 +14,6 @@ A hospital-related cluster of 22 COVID-19 cases occurred in Taiwan in January 20
 ---------
 **Thank you for your interest to our work!** 
 
-The first notebook was written in R with CmdStan used for Bayesian simulations. The second notebook used Python for graphical output for two supplementary figures.
+The first notebook was written in R with Stan used for Bayesian simulations. The second notebook used Python for graphical output for two supplementary figures.
 
 **Words of caution**: We note that the code is not supposed to work out of box, because the links used in the notebooks can be user-specific and some part of the dataset could not be openly shared (e.g. the linelist of COVID-19 that was used for reconstruction of the epicurve). Our main intent was to show the relevance of the methods used in our paper. We are grateful for your understanding in advance.
