@@ -1,8 +1,6 @@
 # A hospital-related outbreak of SARS-CoV-2 in Taiwan, January–February 2021
 
-*Work in progress*
-
-Supporting materials for Akhmetzhanov AR, Jung S-M, Cheng H-Y, Thompson RN. "A hospital-related outbreak of SARS-CoV-2 associated with a novel variant Cal.20C (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021" *Submitted* 2021.
+Supporting materials for Akhmetzhanov AR, Jung S-M, Cheng H-Y, Thompson RN. "A hospital-related outbreak of SARS-CoV-2 associated with a novel variant Cal.20C (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021" *International Journal of Infectious Diseases* 2021 (doi:[10.1016/j.ijid.2021.06.028](https://www.sciencedirect.com/science/article/pii/S1201971221005178)).
 
 A hospital-related cluster of 22 COVID-19 cases occurred in Taiwan in January 2021. Following proactive testing with intensive contact tracing and isolation, the outbreak was contained. These rigorous measures allowed the outbreak end to be determined with confidence 3 weeks earlier compared to a counterfactual scenario with less intense measures. 
 
