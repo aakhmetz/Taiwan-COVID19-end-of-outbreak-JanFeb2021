@@ -1,8 +1,16 @@
 # A hospital-related outbreak of SARS-CoV-2 in Taiwan, January–February 2021
 
-Supporting materials for Akhmetzhanov AR, Jung S-M, Cheng H-Y, Thompson RN. "A hospital-related outbreak of SARS-CoV-2 associated with a novel variant Cal.20C (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021" *International Journal of Infectious Diseases* 2021 (doi:[10.1016/j.ijid.2021.06.028](https://www.sciencedirect.com/science/article/pii/S1201971221005178)).
+Supporting materials for Akhmetzhanov AR, Jung S-M, Cheng H-Y, Thompson RN. "A hospital-related outbreak of SARS-CoV-2 associated with variant Epsilon (B.1.429) in Taiwan: transmission potential and outbreak containment under intensified contact tracing, January–February 2021" *International Journal of Infectious Diseases* 2021 (doi:[10.1016/j.ijid.2021.06.028](https://www.sciencedirect.com/science/article/pii/S1201971221005178)).
 
-A hospital-related cluster of 22 COVID-19 cases occurred in Taiwan in January 2021. Following proactive testing with intensive contact tracing and isolation, the outbreak was contained. These rigorous measures allowed the outbreak end to be determined with confidence 3 weeks earlier compared to a counterfactual scenario with less intense measures. 
+Please see the authors' version: [ms.pdf](https://github.com/aakhmetz/Covid19IncidenceHokkaidoFeb2020/blob/master/manuscript/2021%20Akhmetzhanov%20et%20al%20Hokkaido%20paper%20JCM.pdf)
+
+A hospital-related cluster of 22 COVID-19 cases occurred in Taiwan in January 2021. Following proactive testing with intensive contact tracing and isolation, the outbreak was contained. These rigorous measures allowed the outbreak end to be determined with confidence 3 weeks earlier compared to a counterfactual scenario with less intense measures.
+
+The reconstucted transmission tree
+<p align="center">
+  <img src="Figure1.png" title="Transmission tree">
+</p>
+
 
 ### Main notebooks
 
